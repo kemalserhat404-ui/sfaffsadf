@@ -1,0 +1,20 @@
+2025-10-09 19:40:07,942 - INFO - Starting run loop using strategy=simple_strategy, poll_interval=60s
+2025-10-09 19:40:07,945 - INFO - SINYAL -> BTC/USDT BUY confidence=0.80
+2025-10-09 19:40:07,946 - INFO - NoSignal -> ETH/USDT confidence=0.34
+2025-10-09 19:41:06,975 - INFO - NoSignal -> BTC/USDT confidence=0.24
+2025-10-09 19:41:06,976 - INFO - NoSignal -> ETH/USDT confidence=0.20
+2025-10-09 19:42:06,004 - INFO - NoSignal -> BTC/USDT confidence=0.34
+2025-10-09 19:42:06,005 - INFO - NoSignal -> ETH/USDT confidence=0.24
+2025-10-09 19:59:47,062 - INFO - Starting run_loop with strategy=simple_strategy, pairs=['BTC/USDT', 'ETH/USDT'], timeframe=1h, threshold=0.8
+2025-10-09 19:59:47,062 - INFO - Starting run loop
+2025-10-09 19:59:47,063 - INFO - Running iteration using strategy=simple_strategy
+2025-10-09 19:59:47,068 - INFO - NoSignal -> BTC/USDT confidence=0.78
+2025-10-09 19:59:47,070 - INFO - NoSignal -> ETH/USDT confidence=0.42
+2025-10-09 20:00:46,102 - INFO - Running iteration using strategy=simple_strategy
+2025-10-09 20:00:46,105 - INFO - SINYAL -> BTC/USDT BUY confidence=0.99
+2025-10-09 20:00:46,106 - INFO - NoSignal -> ETH/USDT confidence=0.76
+2025-10-09 20:01:45,135 - INFO - Running iteration using strategy=simple_strategy
+2025-10-09 20:01:45,136 - INFO - NoSignal -> BTC/USDT confidence=0.43
+2025-10-09 20:01:45,140 - INFO - SINYAL -> ETH/USDT BUY confidence=0.81
+2025-10-09 20:02:12,402 - INFO - Signal 2 received. Stopping run loop...
+2025-10-09 20:02:13,157 - INFO - Run loop stopped cleanly.

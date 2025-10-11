@@ -1,0 +1,11 @@
+2025-10-09_19-11-22 | Sinyal: BUY, Güven: 0.94
+2025-10-09 19:28:09,746 - Güven düþük (0.01), sinyal yok.
+2025-10-09 19:35:57,915 - INFO - Sinyal: BUY, Güven: 0.95
+2025-10-09 19:40:07,946 - INFO - NoSignal -> ETH/USDT confidence=0.34
+2025-10-09 19:41:06,976 - INFO - NoSignal -> ETH/USDT confidence=0.20
+2025-10-09 19:42:06,005 - INFO - NoSignal -> ETH/USDT confidence=0.24
+2025-10-09 19:59:47,069 - INFO - NoSignal -> ETH/USDT confidence=0.42
+2025-10-09 20:00:46,106 - INFO - NoSignal -> ETH/USDT confidence=0.76
+2025-10-09 20:01:45,140 - INFO - SINYAL -> ETH/USDT BUY confidence=0.81
+SINYAL -> ETH/USDT SELL confidence=0.67
+SINYAL -> ETH/USDT SELL confidence=0.32

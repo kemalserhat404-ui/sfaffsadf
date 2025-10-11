@@ -1,0 +1,10 @@
+2025-10-09 19:28:09,745 - Güven düþük (0.38), sinyal yok.
+2025-10-09 19:35:57,913 - INFO - Güven düþük (0.65), sinyal yok.
+2025-10-09 19:40:07,945 - INFO - SINYAL -> BTC/USDT BUY confidence=0.80
+2025-10-09 19:41:06,975 - INFO - NoSignal -> BTC/USDT confidence=0.24
+2025-10-09 19:42:06,004 - INFO - NoSignal -> BTC/USDT confidence=0.34
+2025-10-09 19:59:47,068 - INFO - NoSignal -> BTC/USDT confidence=0.78
+2025-10-09 20:00:46,104 - INFO - SINYAL -> BTC/USDT BUY confidence=0.99
+2025-10-09 20:01:45,136 - INFO - NoSignal -> BTC/USDT confidence=0.43
+SINYAL -> BTC/USDT SELL confidence=0.56
+SINYAL -> BTC/USDT SELL confidence=0.30

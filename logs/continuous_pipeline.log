@@ -1,0 +1,49 @@
+[2025-10-11 17:13:37,563] INFO - Starting continuous multi-horizon pipeline
+[2025-10-11 17:13:37,564] WARNING - BINANCE API keys not provided. Live fetch will fail.
+[2025-10-11 17:13:37,982] INFO - Model loaded -> models/btc_offline_lgb_recomputed_optuna.joblib
+[2025-10-11 17:13:37,982] INFO - Ready with model.
+[2025-10-11 17:13:37,983] INFO - Yeni veri çekiliyor... (10m)
+[2025-10-11 17:13:38,406] ERROR - API error fetching 10m: APIError(code=-1120): Invalid interval.
+[2025-10-11 17:13:38,408] ERROR - Veri çekme hatasý (10m): APIError(code=-1120): Invalid interval.
+[2025-10-11 17:13:38,409] INFO - Yeni veri çekiliyor... (30m)
+[2025-10-11 17:13:39,060] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_30m.parquet
+[2025-10-11 17:13:41,397] INFO - [30m] Last pred: 0, prob: 0.292
+[2025-10-11 17:13:41,416] INFO - High-confidence predictions: 0
+[2025-10-11 17:13:41,417] INFO - Not enough high-confidence samples for retrain.
+[2025-10-11 17:13:41,418] INFO - Yeni veri çekiliyor... (1h)
+[2025-10-11 17:13:41,985] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_1h.parquet
+[2025-10-11 17:13:41,990] INFO - [1h] Last pred: 0, prob: 0.292
+[2025-10-11 17:13:41,995] INFO - High-confidence predictions: 0
+[2025-10-11 17:13:41,995] INFO - Not enough high-confidence samples for retrain.
+[2025-10-11 17:13:41,995] INFO - Sleeping 60 dakika...
+[2025-10-11 17:14:59,993] INFO - Stopping pipeline (KeyboardInterrupt).
+[2025-10-11 17:15:46,960] INFO - Starting continuous multi-horizon pipeline
+[2025-10-11 17:15:46,961] WARNING - BINANCE API keys not provided. Live fetch will fail.
+[2025-10-11 17:15:47,306] INFO - Model loaded -> models/btc_offline_lgb_recomputed_optuna.joblib
+[2025-10-11 17:15:47,306] INFO - Ready with model.
+[2025-10-11 17:15:47,306] INFO - Yeni veri çekiliyor... (5m)
+[2025-10-11 17:15:47,992] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_5m.parquet
+[2025-10-11 17:15:50,046] INFO - [5m] Last pred: 0, prob: 0.292
+[2025-10-11 17:15:50,061] INFO - High-confidence predictions: 0
+[2025-10-11 17:15:50,062] INFO - Not enough high-confidence samples for retrain.
+[2025-10-11 17:15:50,063] INFO - Yeni veri çekiliyor... (15m)
+[2025-10-11 17:15:50,642] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_15m.parquet
+[2025-10-11 17:15:50,647] INFO - [15m] Last pred: 0, prob: 0.292
+[2025-10-11 17:15:50,653] INFO - High-confidence predictions: 0
+[2025-10-11 17:15:50,653] INFO - Not enough high-confidence samples for retrain.
+[2025-10-11 17:15:50,654] INFO - Yeni veri çekiliyor... (30m)
+[2025-10-11 17:15:51,224] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_30m.parquet
+[2025-10-11 17:15:51,229] INFO - [30m] Last pred: 0, prob: 0.292
+[2025-10-11 17:15:51,236] INFO - High-confidence predictions: 0
+[2025-10-11 17:15:51,236] INFO - Not enough high-confidence samples for retrain.
+[2025-10-11 17:15:51,236] INFO - Yeni veri çekiliyor... (1h)
+[2025-10-11 17:15:52,786] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_1h.parquet
+[2025-10-11 17:15:52,790] INFO - [1h] Last pred: 0, prob: 0.292
+[2025-10-11 17:15:52,797] INFO - High-confidence predictions: 0
+[2025-10-11 17:15:52,798] INFO - Not enough high-confidence samples for retrain.
+[2025-10-11 17:15:52,798] INFO - Yeni veri çekiliyor... (4h)
+[2025-10-11 17:15:53,878] INFO - Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto_4h.parquet
+[2025-10-11 17:15:53,882] ERROR - Prediction failed: Input data must be 2 dimensional and non empty.
+[2025-10-11 17:15:53,884] ERROR - Model predict_proba failed: Input data must be 2 dimensional and non empty.
+[2025-10-11 17:15:53,884] INFO - Sleeping 60 dakika...
+[2025-10-11 17:19:04,328] INFO - Stopping pipeline (KeyboardInterrupt).

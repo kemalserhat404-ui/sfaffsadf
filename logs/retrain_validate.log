@@ -1,0 +1,3 @@
+[2025-10-11 05:08:56] Loading features: features/BTC_USDT__1h__features.parquet
+[2025-10-11 05:08:56] Saved recomputed features -> features/BTC_USDT__1h__features_recomputed_auto.parquet
+[2025-10-11 05:08:56] Training LGBMClassifier...
